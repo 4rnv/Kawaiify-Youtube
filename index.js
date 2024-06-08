@@ -118,7 +118,7 @@ async function checkImageExistence(index) {
 ////////////////////////
 
 // Defines the N size of last images that will not be repeated.
-const size_of_non_repeat = 8
+const size_of_non_repeat = 2
 // List of the index of the last N selected images.
 const last_indexes = Array(size_of_non_repeat)
 
